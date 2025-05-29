@@ -1,7 +1,7 @@
 {
     "code": 200,
     "msg": "Operation completed",
-    "time": "1748497796",
+    "time": "1748506831",
     "data": {
         "list": [
             {
@@ -704,6 +704,19 @@
                 "file_size": "1836641",
                 "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape-test/pc_zst/3b4f/79/a5/turnip-23.3.0_R9.tzst",
                 "file_name": "turnip-23.3.0_R9.tzst",
+                "is_ui": 1
+            },
+            {
+                "id": 267,
+                "version": "1.1.0",
+                "version_code": 1937,
+                "type": 3,
+                "name": "dxvk-1.10.3-arm64ec-async",
+                "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+                "file_md5": "bfe83375bfbc2f45305002f0b1e5628c",
+                "file_size": "24981682",
+                "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/bfe8/33/75/dxvk-1.10.3-arm64ec-async.tzst",
+                "file_name": "dxvk-1.10.3-arm64ec-async.tzst",
                 "is_ui": 1
             },
             {
@@ -2617,21 +2630,8 @@
                 "file_name": "vkd3d-2.12.tzst",
                 "is_ui": 1
             }
-			{
-                "id": 7,
-                "version": "1.1.1",
-                "version_code": 1,
-                "type": 4,
-                "name": "vkd3d-2.12",
-                "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
-                "file_md5": "4f3e99438281f7749cb2b8b2412c9d10",
-                "file_size": "2643215",
-                "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape-test/pc_zst/4f3e/99/43/vkd3d-2.12.tzst",
-                "file_name": "vkd3d-2.12.tzst",
-                "is_ui": 1
-            }
         ],
-        "total": 201,
+        "total": 202,
         "page": 1,
         "pageSize": 1000
     }
