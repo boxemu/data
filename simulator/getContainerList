@@ -91,6 +91,23 @@
                 "sub_file_name": "8ee583973eb292d19b2f96bb71e36689.tzst",
                 "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/78a5/4b/86/8ee583973eb292d19b2f96bb71e36689.tzst",
                 "sub_file_md5": "78a54b8682197eba9f95731c684c3af2"
+            },
+        {
+            "id": 8,
+            "version": "1.0.1",
+            "version_code": 2,
+            "name": "wine10.7-x64-1",
+            "logo": "https://raw.githubusercontent.com/boxemu/data/refs/heads/main/img/wine.png",
+            "file_md5": "8ee583973eb292d19b2f96bb71e36689",
+            "file_size": "162500999",
+            "download_url": "https://www.dropbox.com/scl/fi/9l6tcefowppgi3fyyiczu/Wine10.7.tar.zst?rlkey=dzfgharc0p5g5m8xpapu23ber&st=4hl6eacr&dl=1",
+            "file_name": "Wine_10.7.tar.zst",
+            "framework": "X64",
+            "framework_type": "stable",
+            "sub_data": {
+                "sub_file_name": "8ee583973eb292d19b2f96bb71e36689.tzst",
+                "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/78a5/4b/86/8ee583973eb292d19b2f96bb71e36689.tzst",
+                "sub_file_md5": "78a54b8682197eba9f95731c684c3af2"
             }
         },
         {
