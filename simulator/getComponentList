@@ -5,6 +5,32 @@
   "data": {
     "list": [
       {
+        "id": 902,
+        "version": "1.0.1",
+        "version_code": 2079,
+        "type": 1,
+        "name": "box64-0.36-d1f8458",
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "file_md5": "0710124a6bff00dce7c7752be429646a",
+        "file_size": "4760829",
+        "download_url": "https://github.com/boxemu/file/raw/refs/heads/main/box64/box64-0.36-d1f8458.tzst",
+        "file_name": "box64-0.36-d1f8458.tzst",
+        "is_ui": 1
+      },
+      {
+        "id": 901,
+        "version": "1.1.0",
+        "version_code": 2952,
+        "type": 3,
+        "name": "dxvk-sarek-v1.10.9",
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "file_md5": "7f6ef17182f86041cd7a8463a0a9ddf7",
+        "file_size": "7802684",
+        "download_url": "https://github.com/boxemu/file/raw/refs/heads/main/dxvk/dxvk-sarek-v1.10.9.tzst",
+        "file_name": "dxvk-sarek-v1.10.9.tzst",
+        "is_ui": 1
+      },
+      {
         "id": 900,
         "version": "1.0.0",
         "version_code": 2945,
