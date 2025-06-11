@@ -5,6 +5,19 @@
   "data": {
     "list": [
       {
+        "id": 903,
+        "version": "1.0.0",
+        "version_code": 2000,
+        "type": 3,
+        "name": "box64-0.3.6.fix",
+        "logo": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/45e6/0d/21/45e60d211d35955bd045aabfded4e64b.png",
+        "file_md5": "dbe1b776720cae9ab9ae1b9df688591b",
+        "file_size": "11551122",
+        "download_url": "https://github.com/boxemu/file/raw/refs/heads/main/box64/box64-0.3.6.fix.tzst",
+        "file_name": "box64-0.3.6.fix.tzst",
+        "is_ui": 1
+      },
+      {
         "id": 902,
         "version": "1.0.1",
         "version_code": 2079,
