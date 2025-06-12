@@ -1,1 +1,1 @@
-{"code":200,"msg":"Operation completed","time":"1748460365","data":{}}
+{"code":200,"msg":"Operation completed","time":"1749743495","data":{"id":1,"name":"Performance","translations":{"safeFlags":"0","strongMem":"0","fastNan":"true","fastRound":"true","x87Double":"false","bigBlock":"1","callret":"true","wait":"false","TSOMode":"0","X87Mode":"0","MultiBlock":"true","MMAP32":"false","AlignedAtomics":"false","WeakBarrier":"0","AVX":"0","Forward":"1024"},"gpu":{},"dxvk":{},"vkd3d":{},"translator":{}}}
