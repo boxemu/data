@@ -4,6 +4,24 @@
     "time": "1748413880",
     "data": [
         {
+            "id": 17,
+            "version": "1.0.0",
+            "version_code": 109,
+            "name": "proton10.0_arm64x_1",
+            "logo": "https://raw.githubusercontent.com/boxemu/data/refs/heads/main/img/proton.png",
+            "file_md5": "6ee7256b33579bc8676828db52f49c21",
+            "file_size": "75601953",
+            "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/6ee7/25/6b/wine_proton10.0_arm64x_1.tar.zst",
+            "file_name": "wine_proton10.0_arm64x_1.tar.zst",
+            "framework": "arm64X",
+            "framework_type": "proton",
+            "sub_data": {
+                "sub_file_name": "6ee7256b33579bc8676828db52f49c21.tzst",
+                "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/836a/00/bc/6ee7256b33579bc8676828db52f49c21.tzst",
+                "sub_file_md5": "836a00bc8ecb4cfe96f7c3b615ef1eba"
+            }
+        },
+		{
             "id": 9,
             "version": "1.0.3",
             "version_code": 4,
