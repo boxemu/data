@@ -5,6 +5,18 @@
   "data": {
     "list": [
       {
+        "id": 273,
+        "version": "1.0.0",
+        "version_code": 1754,
+        "type": 1,
+        "name": "Fex_20250605",
+        "logo": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/component.png",
+        "file_md5": "523c41ce6a386662a891cec6239f92f5",
+        "file_size": "1608517",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/523c/41/ce/Fex_20250605.tzst",
+        "file_name": "Fex_20250605.tzst"
+      },
+      {
         "id": 906,
         "version": "1.0.0",
         "version_code": 2948,
