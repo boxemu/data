@@ -5,8 +5,8 @@
     "data": [
         {
             "id": 4,
-            "name": "View Game Library",
-            "icon": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/game-image/3c11/1f/1c/3c111f1c56b4b2858bf759d73e99dcb2.png",
+            "name": "pc emulator",
+            "icon": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/window.png",
             "type": 4
         }
     ]
