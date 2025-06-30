@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "msg": "success",
+  "time": "1751280061",
+  "data": {
+    "expire_in": 300,
+    "limit_in": 0,
+    "user_timer": 300
+  }
+}
