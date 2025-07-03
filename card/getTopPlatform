@@ -4,39 +4,11 @@
   "time": "1749739889",
   "data": [
     {
-      "id": 4,
-      "name": "View Game Library",
-      "icon": "https://uxdl.bigeyes.com/ux-landscape/game-image/3c11/1f/1c/3c111f1c56b4b2858bf759d73e99dcb2.png",
+      "id": 13,
+      "name": "​​PC Emulator​​",
+      "icon": "https://uxdl.bigeyes.com/ux-landscape/game-image/ae96/bf/1d/ae96bf1de8c2786b9bd10282653bee95.png",
       "type": 7,
       "back_img": "https://uxdl.bigeyes.com/ux-landscape/game-image/ed31/1b/07/ed311b07c20fb19b61998559de079dcf.jpeg"
-    },
-    {
-      "id": 16,
-      "name": "PC Link remote play",
-      "icon": "https://uxdl.bigeyes.com/ux-landscape/game-image/0d17/c9/9b/0d17c99bf42cf5152046ef3c1223ca87.png",
-      "type": 3,
-      "back_img": "https://uxdl.bigeyes.com/ux-landscape/game-image/b353/1f/5d/b3531f5dc6592ce4bdfc8b6c6f33cb25.jpeg"
-    },
-    {
-      "id": 17,
-      "name": "PS Link remote play",
-      "icon": "https://uxdl.bigeyes.com/ux-landscape/game-image/5d23/a8/ef/5d23a8efde8b5bba7319524dacab36d4.png",
-      "type": 2,
-      "back_img": "https://uxdl.bigeyes.com/ux-landscape/game-image/6c44/1c/9c/6c441c9cfc606093e0d6676d128a45cd.jpeg"
-    },
-    {
-      "id": 9,
-      "name": "Steam",
-      "icon": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/6719/a3/f9/6719a3f928cad164fcb3f62e1273dbab.webp",
-      "type": 5,
-      "back_img": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/29ac/bc/d7/29acbcd7bef8e02ecd4e7bb6d6c64130.png"
-    },
-    {
-      "id": 11,
-      "name": "Mobile Game",
-      "icon": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/1830/4d/ac/18304dacf608f67830c5c84ae7cfb2cd.webp",
-      "type": 6,
-      "back_img": "https://uxdl.bigeyes.com/ux-landscape-test/game-image/ea2c/d4/21/ea2cd42190afd79ba18dec327b81a677.jpeg"
     }
   ]
 }
