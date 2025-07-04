@@ -1525,7 +1525,7 @@
         "gpu_range": ""
       },
       {
-        "id": 217,
+        "id": 9117,
         "version": "1.0.0",
         "version_code": 1333,
         "type": 5,
@@ -1535,7 +1535,7 @@
         "file_size": "69468",
         "download_url": "https://github.com/boxemu/file/raw/refs/heads/main/wine/WineNew.tzst",
         "file_name": "WineNew.tzst",
-        "is_ui": 2
+        "gpu_range": ""
       },
       {
         "id": 216,
