@@ -1529,7 +1529,7 @@
         "version": "1.0.0",
         "version_code": 1333,
         "type": 5,
-        "name": "Wine",
+        "name": "Wine_ENG",
         "logo": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/component.png",
         "file_md5": "04e82d40e56c8d3ef95cdc873ed60663",
         "file_size": "69468",
