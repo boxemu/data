@@ -39,6 +39,24 @@
                 "sub_file_md5": "7db6c0ea5fc6bae8b5832a9143daf4cb"
             }
         },
+		{
+            "id": 9009,
+            "version": "1.0.3",
+            "version_code": 4,
+            "name": "proton9.0-arm64ec WB TEST",
+            "logo": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/proton.png",
+            "file_md5": "13cc0d2b3c0f5e43aeda9b0b322a0d8a",
+            "file_size": "75601953",
+            "download_url": "https://limewire-filesharing-production.b61cdfd8cf17f52ddc020162e738eb5d.r2.cloudflarestorage.com/buckets/ec846577-da7f-4fae-ad78-55bcbc2bf90b/de4c9201-194e-4faf-a546-54ae815f2104?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250704T004521Z&X-Amz-SignedHeaders=host&X-Amz-Credential=a1868571dfad6d4fe293ee5b945a0ad5%2F20250704%2Fauto%2Fs3%2Faws4_request&X-Amz-Expires=14400&X-Amz-Signature=29df6d021ca512856eeea5505f8b0a478ab4636c52693862f4f88cbd98dabbb4",
+            "file_name": "proton-9.0-arm64ec.tar.zst",
+            "framework": "arm64X",
+            "framework_type": "proton",
+            "sub_data": {
+                "sub_file_name": "13cc0d2b3c0f5e43aeda9b0b322a0d8a.tzst",
+                "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/7db6/c0/ea/13cc0d2b3c0f5e43aeda9b0b322a0d8a.tzst",
+                "sub_file_md5": "7db6c0ea5fc6bae8b5832a9143daf4cb"
+            }
+        },
         {
             "id": 13,
             "version": "1.0.1",
