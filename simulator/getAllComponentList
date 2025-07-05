@@ -1531,10 +1531,10 @@
         "type": 5,
         "name": "Wine",
         "logo": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/component.png",
-        "file_md5": "04e82d40e56c8d3ef95cdc873ed60663",
+        "file_md5": "f805aec3340c49251fa2928061176809",
         "file_size": "69468",
-        "download_url": "https://github.com/boxemu/file/raw/refs/heads/main/wine/WineNew.tzst",
-        "file_name": "WineNew.tzst",
+        "download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/f805/ae/c3/Wine.tzst",
+        "file_name": "Wine.tzst",
         "is_ui": 2
       },
       {
