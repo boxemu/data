@@ -55,6 +55,23 @@
         "sub_file_name": "56eef8dbe29880335e0a716abae965aa.tzst",
         "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/ec73/09/52/56eef8dbe29880335e0a716abae965aa.tzst",
         "sub_file_md5": "ec7309521dccc44c0ad9e3e1896947d5"
+      },
+    {
+      "id": 913,
+      "version": "1.0.1",
+      "version_code": 2,
+      "name": "test",
+      "logo": "https://raw.githubusercontent.com/boxemu/file/refs/heads/main/img/proton.png",
+      "file_md5": "8e46c193e0915c98284cab310396f5ea",
+      "file_size": "83613827",
+      "download_url": "https://www.dropbox.com/scl/fi/9nv7u8ti21fqe2nes8xfl/wine_out.tar.zst?rlkey=2liobkmap5be1ceuaiibhhajy&st=pdmoeoa0&dl=1",
+      "file_name": "wine_out.tar.zst",
+      "framework": "X64",
+      "framework_type": "proton",
+      "sub_data": {
+        "sub_file_name": "8e46c193e0915c98284cab310396f5ea.tzst",
+        "sub_download_url": "https://zlyer-cdn-comps-en.bigeyes.com/ux-landscape/pc_zst/ec73/09/52/56eef8dbe29880335e0a716abae965aa.tzst",
+        "sub_file_md5": "8e46c193e0915c98284cab310396f5ea"
       }
     },
     {
